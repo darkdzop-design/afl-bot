@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BOT",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "NCBox_PVP.aternos.me",
+    "port": 26346,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
