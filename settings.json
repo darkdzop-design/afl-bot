@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "lifestell989.aternos.me",
-    "port": 62547,
+    "ip": "NCBOX_PVP.aternos.me",
+    "port": 26346,
     "version": "1.21.11",
     "try-creative": false
   },
