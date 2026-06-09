@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "NBOX_PVP.aternos.me",
+    "ip": "NCBOX_PVP.aternos.me",
     "port": 26346,
     "version": "1.21.11",
     "try-creative": false
