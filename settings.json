@@ -1,13 +1,13 @@
 {
   "name": "BOT",
   "bot-account": {
-    "username": "AFSK",
+    "username": "AFK",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "NCBOX_PVP.aternos.me",
-    "port": 26346,
+    "ip": "NagisSMP.aternos.me",
+    "port": 59202,
     "version": "1.21.11",
     "try-creative": false
   },
